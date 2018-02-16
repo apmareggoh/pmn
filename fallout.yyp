@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "4b9f2264-a811-46a5-a367-4535873e691b",
+            "Value": {
+                "id": "fd0eaad2-2e82-4cd5-bc41-281dd5eff21a",
+                "resourcePath": "scripts\\s_getSprite\\s_getSprite.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5104d58b-ee92-41e4-9b38-1641f9171d3b",
             "Value": {
                 "id": "cb5c7fe2-e13e-4ab3-925d-6abdf594b459",
@@ -263,6 +271,14 @@
             }
         },
         {
+            "Key": "ece256a6-f77c-4fa2-b1a4-5c29615fa065",
+            "Value": {
+                "id": "5fe25e1f-a0fc-4375-a2f2-52ede6cec217",
+                "resourcePath": "scripts\\s_getAngleForMouse\\s_getAngleForMouse.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f12c419c-2bd8-4924-95c2-98620214b2c6",
             "Value": {
                 "id": "5c219802-9b58-4e0a-a99c-b3fa373b3444",
@@ -296,7 +312,8 @@
         }
     ],
     "script_order": [
-        
+        "ece256a6-f77c-4fa2-b1a4-5c29615fa065",
+        "4b9f2264-a811-46a5-a367-4535873e691b"
     ],
     "tutorial": ""
 }
